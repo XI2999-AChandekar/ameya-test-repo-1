@@ -1,0 +1,16 @@
+{
+  "operations": [
+    {
+      "conditions": [
+        {
+          "expr": "CXZC",
+          "path": "sdsa"
+        }
+      ],
+      "op": "replace",
+      "src": "/cxzc",
+      "dst": "XXCXZ",
+      "with": null
+    }
+  ]
+}
